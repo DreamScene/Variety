@@ -1,0 +1,6 @@
+---
+- name: Install Variety
+  ansible.builtin.apt:
+    pkg:
+    - variety
+  become: true
