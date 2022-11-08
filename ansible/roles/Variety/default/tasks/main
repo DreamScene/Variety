@@ -1,0 +1,4 @@
+---
+dependencies:
+- Variety/install
+- Variety/on startup
