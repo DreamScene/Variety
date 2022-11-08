@@ -1,5 +1,5 @@
 ---
-- name: Install 
+- name: Install Variety
   ansible.builtin.dnf:
     name:
       - httpd
